@@ -1,8 +1,9 @@
 ##start Laravel
-Projeto para Aprender framework laravel
+#Projeto para Aprender framework laravel
 
 ##for iniciate
-``npm install && composer install``
+#``npm install && composer install``
 
 ##Run compilate
-``npm run dev`` or ``npm run prod``
+
+#``npm run dev`` or ``npm run prod``
